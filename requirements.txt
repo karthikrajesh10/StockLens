@@ -1,0 +1,8 @@
+pandas~=2.3.0
+tweepy~=4.15.0
+python-dotenv~=1.1.0
+vaderSentiment~=3.3.2
+snscrape~=0.7.0.20230622
+streamlit~=1.45.1
+matplotlib~=3.10.3
+seaborn~=0.13.2
